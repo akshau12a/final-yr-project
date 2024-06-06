@@ -1,1 +1,1 @@
-# final-yr-project
+# Final-year-project
